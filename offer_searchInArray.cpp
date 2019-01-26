@@ -1,6 +1,7 @@
-//author: xcj
-//date  : 20190126
-//method: 从左下角开始搜索，将当前元素cur和目标元素target进行比较，若cur > target，
+//author : xcj
+//date   : 20190126
+//problem: 二维数组中的查找
+//method : 从左下角开始搜索，将当前元素cur和目标元素target进行比较，若cur > target，
 //则往上搜索；若cur < target，则往右搜索；若cur == target，则return ture。
 
 class Solution {

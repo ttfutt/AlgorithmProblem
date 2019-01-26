@@ -1,6 +1,6 @@
 //author : xcj
 //date   : 20190126
-//problem: 包含min函数的栈
+//problem: 二叉搜索树和双向链表
 //method : 二叉搜索树的中序遍历就是有序的，根据中序遍历来构建双向链表即可。
 /*
 struct TreeNode {
